@@ -1,0 +1,10 @@
+#opener {
+    background-image: url('opener background.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#oscar:hover {
+    /* transform: scale(1.1); */
+    transform: scale(1.1);
+}
